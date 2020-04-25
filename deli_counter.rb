@@ -1,5 +1,5 @@
 katz_deli = []
-def line 
+def line(array)
   print "The line is currently empty."
 end
 
