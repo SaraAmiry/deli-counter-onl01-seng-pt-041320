@@ -8,7 +8,7 @@ else
 end
 puts say
 end
-end
+
 
 def take_a_number(katz_deli, " ")
   puts #{name} katz_deli.each_with_index"
