@@ -10,6 +10,6 @@ puts say
 end
 
 
-def take_a_number(katz_deli, " ")
-  puts #{name} katz_deli.each_with_index"
+def take_a_number(katz_deli, name)
+  
 end
